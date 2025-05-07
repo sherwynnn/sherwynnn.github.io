@@ -10,7 +10,7 @@ I'm an aspiring UI/UX designer and frontend developer based in Singapore.
 
 I live for the challenge of turning complex problems into simplistic solutions, and I'm driven by the idea of creating user experiences that people are naturally inclined to continue using over and over again.
 
-## My design philosophy
+## My personal design philosophy
 
 - :open_book: Storytelling brings designs to life
 - :gear: Achieving simplicity is complex by nature (what an oxymoron)

@@ -6,7 +6,7 @@ tags: [case study]     # TAG names should always be lowercase
 author: <author_id>
 description: The main project I worked on in my previous internship in Allied as a product designer intern.
 comments: false
-image: /assets/img/preview-image-hrms.png
+image: /assets/img/2025-04-27-hr-management-system/preview-image-hrms.png
 ---
 
 ## Overview
@@ -19,11 +19,11 @@ During this period, the main project assigned to me was to redesign the company�
 ### Role-Based Access
 
 When the system was in early development, a clear distinction of roles in the system was not fleshed out yet. Hence, I identified 3 main roles to design for:
-![Desktop View](/assets/img/user-design.png){: width="700" height="400" }
+![Desktop View](/assets/img/2025-04-27-hr-management-system/user-design.png){: width="700" height="400" }
 _All users are generally separated into 3 main roles: HR, manager and normal employees._
 
 I kept the design as modular as possible so that the system can accommodate for these 3 major roles, whereby additional features are shown and hidden based on the access granted.
-![Desktop View](/assets/img/widget-comparison.png){: width="700" height="400" }
+![Desktop View](/assets/img/2025-04-27-hr-management-system/widget-comparison.png){: width="700" height="400" }
 _Comparison of Leave Requests for normal employees and managers_
 
 ### Information-Heavy Design
@@ -32,7 +32,7 @@ A tab design was preferred for majority of the designs as it allowed for effecti
 
 This was especially important since a single employee could have hundreds of data fields across different categories - such as personal details, education, family members, and more.
 
-![Desktop View](/assets/img/tab-design.png){: width="700" height="400" }
+![Desktop View](/assets/img/2025-04-27-hr-management-system/tab-design.png){: width="700" height="400" }
 _Tabbed design to separate relevant information_
 
 ### The devil is in the details
@@ -40,12 +40,12 @@ _Tabbed design to separate relevant information_
 Many things were taken into consideration when considering all the possible different pathways, and the complexity of each individual component reflects this the most accurately.
 
 Wherever possible, these components were designed to communicate the current status of the system clearly, without needing users to guess or rely on external guidance.
-![Desktop View](/assets/img/submit-claim-1.png)
+![Desktop View](/assets/img/2025-04-27-hr-management-system/submit-claim-1.png)
 _Interactive behaviour for image upload field to indicate upload status_
 
 One key consideration was how to make the most effective use of limited space, while still ensuring that essential details are accessible when needed.
 
-![Desktop View](/assets/img/hover-stackedimages.gif){: width="400" height="400" }
+![Desktop View](/assets/img/2025-04-27-hr-management-system/hover-stackedimages.gif){: width="400" height="400" }
 _Essential details such as the user's name and job title are revealed when hovering over their icon_
 
 ### Personality and Storytelling
@@ -54,7 +54,7 @@ I always felt that giving my designs personality helps me to bring life to it, e
 
 What I observed was that it was easier for stakeholders to follow along when names are generally more recognisable. For instance, discussions were done from a third-person perspective where each role had a distinctive name tied to them.
 
-![Desktop View](/assets/img/employee-view.png){: width="700" height="400" }
+![Desktop View](/assets/img/2025-04-27-hr-management-system/employee-view.png){: width="700" height="400" }
 
 This approach was particularly useful when I had to demonstrate designs for the three different roles as mentioned above (HR, manager, employee). For instance, it became naturally understood that "Taylor Swift" represented the HR Manager.
 
@@ -72,7 +72,7 @@ Before starting the design process, I analyzed direct competitors that offered s
 
 These competitors include local HR providers such as Payboy, OmniHR and QuickHR.
 
-![Desktop View](/assets/img/omni-analysis.png){: width="700" height="400" }
+![Desktop View](/assets/img/2025-04-27-hr-management-system/omni-analysis.png){: width="700" height="400" }
 _Excerpt of a page-by-page analysis for OmniHR’s leave/timeoff feature_
 
 ### Team Size and Priorities
@@ -91,8 +91,8 @@ The stakeholders helped provide contextual information to specific HR processes 
 
 For instance, the annual submission of tax forms was designed as a module in the HR management system, where some of the more ambiguous fields were clarified with the stakeholders so as to streamline the submission process and make it as intuitive as possible.
 
-![Desktop View](/assets/img/ir8a-real.png)
-![Desktop View](/assets/img/ir8a-hrms.png)
+![Desktop View](/assets/img/2025-04-27-hr-management-system/ir8a-real.png)
+![Desktop View](/assets/img/2025-04-27-hr-management-system/ir8a-hrms.png)
 _Integrating IR8A tax form submissions into a module in the HR management system_
 
 ## What’s next?
