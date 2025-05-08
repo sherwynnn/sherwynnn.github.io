@@ -18,11 +18,11 @@ During this period, the main project assigned to me was to redesign the company�
 ## Approach
 ### Role-Based Access
 
-When the system was in early development, a clear distinction of roles in the system was not fleshed out yet. Hence, I identified 3 main roles to design for:
+When the system was in early development, a clear distinction of roles in the system had not been fleshed out yet. Hence, I identified 3 main roles to design for:
 ![Desktop View](/assets/img/2025-04-27-hr-management-system/user-design.png){: width="700" height="400" }
 _All users are generally separated into 3 main roles: HR, manager and normal employees._
 
-I kept the design as modular as possible so that the system can accommodate for these 3 major roles, whereby additional features are shown and hidden based on the access granted.
+I kept the design as modular as possible so that the system can accommodate these 3 major roles, whereby additional features are shown and hidden based on the access granted.
 ![Desktop View](/assets/img/2025-04-27-hr-management-system/widget-comparison.png){: width="700" height="400" }
 _Comparison of Leave Requests for normal employees and managers_
 
@@ -30,7 +30,7 @@ _Comparison of Leave Requests for normal employees and managers_
 
 A tab design was preferred for majority of the designs as it allowed for effectively segregating information into huge chunks, while at the same time ensuring that just the right amount of information appears on each page at any given time.
 
-This was especially important since a single employee could have hundreds of data fields across different categories - such as personal details, education, family members, and more.
+This was especially important since a single employee could have hundreds of data fields across different categories, such as personal details, education, family members, and more.
 
 ![Desktop View](/assets/img/2025-04-27-hr-management-system/tab-design.png){: width="700" height="400" }
 _Tabbed design to separate relevant information_
@@ -50,7 +50,7 @@ _Essential details such as the user's name and job title are revealed when hover
 
 ### Personality and Storytelling
 
-I always felt that giving my designs personality helps me to bring life to it, especially for a people-centric system meant to host hundreds of employees.
+I always felt that giving my designs personality helps me to bring life to them, especially for a people-centric system meant to host hundreds of employees.
 
 What I observed was that it was easier for stakeholders to follow along when names are generally more recognisable. For instance, discussions were done from a third-person perspective where each role had a distinctive name tied to them.
 
@@ -81,11 +81,11 @@ For this project, my team primarily consisted of only 2 people: myself (the desi
 
 Both of us collaborated closely and constantly gave each other real-time feedback so as to meet deadlines on time. Though the developer was not familiar with the HR processes in Singapore, we both kept each other up to speed on the tasks to accomplish together and frequently arranged discussions outside of sprint meetings.
 
-While both of us worked together extremely well, at the end of the day it was only just the 2 of us designing and developing an entire HR management system from scratch. The scale of the system was extremely complex and new features were frequently introduced by stakeholders, which made it difficult for both of us to maintain a clear focus on the system’s core features.
+While both of us worked together extremely well, at the end of the day it was only just the 2 of us designing and developing an entire HR management system from scratch. The scale of the system was extremely complex, and new features were frequently introduced by stakeholders, which made it difficult for both of us to maintain a clear focus on the system’s core features.
 
 ###  Limited user input and stakeholder-driven feedback
 
-Most of the feedback came from UAT (user acceptance testing) sessions with internal stakeholders who understandably focused on their own HR operational needs, slightly creating a gap between user experience and business expectations. Despite this, the feedback was still important to both me and the developer as these stakeholders are essentially the end users that would be using the HR management system post deployment.
+Most of the feedback came from UAT (user acceptance testing) sessions with internal stakeholders who understandably focused on their own HR operational needs, slightly creating a gap between user experience and business expectations. Despite this, the feedback was still important to both me and the developer, as these stakeholders are essentially the end users that would be using the HR management system post-deployment.
 
 The stakeholders helped provide contextual information to specific HR processes to be integrated into the system, as well as giving us access to useful resources (usually in the form of screenshots, docs or spreadsheets) to help us to create the relevant modules as requested.
 
@@ -97,6 +97,6 @@ _Integrating IR8A tax form submissions into a module in the HR management system
 
 ## What’s next?
 
-One of the biggest lessons I learned from this project was how task prioritization is extremely key when it comes to SaaS design and development. The reason nothing was ever confirmed to be finished was because of the perpetually new features to be worked on every other day, which meant that we were unable to allocate as much time and effort to refining and completing the existing core features that really mattered. Even on the final week of my internship, I was still actively working on new feature designs, which made it especially challenging to dedicate enough time to preparing a proper design handoff.
+One of the biggest lessons I learned from this project was how task prioritization is extremely key when it comes to SaaS design and development. The reason nothing was ever confirmed to be finished was because of the perpetually new features to be worked on every other day, which meant that we were unable to allocate as much time and effort to refining and completing the existing core features that really mattered. Even in the final week of my internship, I was still actively working on new feature designs, which made it especially challenging to dedicate enough time to preparing a proper design handoff.
 
-Despite all this, this internship was a valuable experience that helped me step foot into the professional world of UX and UI design. I’m very grateful to Allied for giving me the opportunity to be the lead designer of such a large-scale project, where I not only shaped the look and feel of the product but also had the chance to influence stakeholders through my design decisions.
+Despite all this, this internship was a valuable experience that helped me step foot into the professional world of UX and UI design. I’m very grateful to Allied for allowing me to be the lead designer of such a large-scale project, where I not only shaped the look and feel of the product but also had the chance to influence stakeholders through my design decisions.

@@ -15,7 +15,7 @@ I live for the challenge of turning complex problems into simplistic solutions, 
 - :open_book: Storytelling brings designs to life
 - :gear: Achieving simplicity is complex by nature (what an oxymoron)
 - :bulb: Edge cases are a byproduct of out-of-the-box creativity
-- :arrows_counterclockwise: If at first you don't succeed, try again, and again, and again...
+- :arrows_counterclockwise: If at first you don't succeed, try again, again and again (and again...)
 
 ### Favourite books of all time
 
