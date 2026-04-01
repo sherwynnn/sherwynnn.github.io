@@ -6,16 +6,18 @@ order: 4
 
 ## Hey! I'm Sherwyn.
 
-I'm an aspiring UI/UX designer and frontend developer based in Singapore.
+I'm currently an DevOps engineer in DBS. 
 
-I live for the challenge of turning complex problems into simplistic solutions, and I'm driven by the idea of creating user experiences that people are naturally inclined to continue using over and over again.
+Back when I was still in university, I was figuring out my path after graduation and planned to pursue a career in UX/UI design.
+This site is a platform to share some of the design work I did back then as part of my portfolio, along with any projects I’ll be working on in the future.
+
 
 ## My personal design philosophy
 
-- :open_book: Storytelling brings designs to life
-- :gear: Achieving simplicity is complex by nature (what an oxymoron)
-- :bulb: Edge cases are a byproduct of out-of-the-box creativity
-- :arrows_counterclockwise: If at first you don't succeed, try again, again and again (and again...)
+- Storytelling brings designs to life 
+- Achieving simplicity is complex by nature (what an oxymoron)
+- Edge cases are a byproduct of out-of-the-box creativity
+- If at first you don't succeed, try again, again and again (and again...)
 
 ### Favourite books of all time
 
@@ -23,4 +25,4 @@ I live for the challenge of turning complex problems into simplistic solutions, 
 - A Personal Matter _by Kenzaburō Ōe_
 - Medium Raw _by Anthony Bourdain_
 
-[Download my resume here!](/assets/docs/sherwyn-resume.pdf)
+[Download my resume here!](/assets/docs/sherwyntanweewen_resume.pdf)
